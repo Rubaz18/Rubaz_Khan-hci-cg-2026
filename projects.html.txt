@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects – HCI</title>
+</head>
+<body>
+
+  <header>
+    <h1>Course Projects</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="projects.html" aria-current="page">Projects</a></li>
+      <li><a href="cv.html">CV</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Completed Work</h2>
+      <ul>
+        <li>Lab 01 – Website Structure</li>
+        <li>Interaction Analysis</li>
+        <li>Norman GOMS KLM Model</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Learning Outcome</h2>
+      <p>
+        These projects helped in understanding usability, accessibility,
+        and human-centered design principles.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 HCI–CG Course</p>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – Don Norman</title>
+</head>
+<body>
+
+  <header>
+    <h1>About Don Norman</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html" aria-current="page">About</a></li>
+      <li><a href="cv.html">CV</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="analysis.html">Interaction Analysis</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section>
+      <h2>Who is Don Norman?</h2>
+      <p>
+        Don Norman is a well-known researcher and author in the field of
+        Human–Computer Interaction. He focuses on how people use everyday
+        objects and digital systems.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contribution to HCI</h2>
+      <p>
+        His work emphasizes user-centered design, usability, and cognitive
+        psychology. These ideas help designers create systems that are easy
+        to understand and use.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2026 HCI–CG Course</p>
+  </footer>
+
+</body>
+</html>
